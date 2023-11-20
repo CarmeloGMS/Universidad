@@ -28,3 +28,20 @@
 
 // Custom Variables
 @import "astro-ecommerce/custom/styles";
+
+.navbar{
+    background-color: #0C7FCF!important;
+}
+.nav-link{
+    color: #fff!important;
+}
+.borde_titulo{
+    border: #0C7FCF solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: fit-content;
+}
+.titulo1{
+    color: #0C7FCF;
+}
