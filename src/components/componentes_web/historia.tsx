@@ -27,7 +27,7 @@ const Historia = () => {
           <ul className="list-unstyled">
             <li><a className="btn btn-primary mx-auto" style={{padding:'5%',fontSize:'24px'}}>Nuestros uniformes <i className="fa-solid fa-chevron-right"></i></a></li>
             <li><a className="btn btn-primary mx-auto" style={{padding:'5%',fontSize:'24px'}}>Filosofía de gestión</a></li>
-            <li><a className="btn btn-primary mx-auto" style={{padding:'5%',fontSize:'24px'}}>Estructura de la umc</a></li>
+            <li><a className="btn btn-primary mx-auto" style={{padding:'5%',fontSize:'24px'}}>Estructura de la UMC u</a></li>
           </ul>
         </div>
       </div>
