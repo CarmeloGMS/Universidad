@@ -6,6 +6,6 @@ import react from "@astrojs/react";
 // https://astro.build/config
 export default defineConfig({
   integrations: [react()],
-  site: 'https://creativetimofficial.github.io',
-  base: '/web_umc'
+  site: 'https://KrMelo.github.io',
+  base: '/Universidad'
 });
